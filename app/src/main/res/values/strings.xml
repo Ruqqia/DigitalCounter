@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital Counter</string>
+    <string name="count">Count :</string>
+    <string name="plus">+</string>
+    <string name="reset_btn">Reset</string>
+    <string name="close_btn">Close</string>
+</resources>
